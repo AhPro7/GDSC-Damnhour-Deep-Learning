@@ -1,0 +1,2 @@
+1- change logo photo with GDSC
+2- make sigmentaion and augmentaion with cv2 or TF 
