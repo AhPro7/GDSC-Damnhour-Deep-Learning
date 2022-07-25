@@ -1,0 +1,4 @@
+0_ bulid your cnn in this data or cats vs dogs
+1_ try to make early stopping 
+2_ bulid classification report
+
