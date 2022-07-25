@@ -1,0 +1,2 @@
+0_ fine-tune another model like VGG19 on your preferred dataset for classification 
+1 _ try upload your nootebook to kaggle and git hub
