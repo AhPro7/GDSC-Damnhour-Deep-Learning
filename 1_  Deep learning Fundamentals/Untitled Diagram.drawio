@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T11:21:34.748Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pVtO4KYFa1PvkqOKNb32" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-30T11:30:05.338Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Lq0NB-26gCgM1s2XagcC" version="20.2.2" type="github">
   <diagram id="PjxyNXUCWBiIOQPjiz2a" name="Page-1">
-    <mxGraphModel dx="1038" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="DSBFSLeiPYxqSHsi1jwd-1" target="DSBFSLeiPYxqSHsi1jwd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Project 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="DSBFSLeiPYxqSHsi1jwd-5" target="DSBFSLeiPYxqSHsi1jwd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-5" value="Data = tabular data from kaggle&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="DSBFSLeiPYxqSHsi1jwd-10" target="DSBFSLeiPYxqSHsi1jwd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-10" value="&lt;font size=&quot;3&quot;&gt;Start : Ml model&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Build and evaluate DL models using TF&amp;nbsp;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="480" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="DSBFSLeiPYxqSHsi1jwd-15" target="DSBFSLeiPYxqSHsi1jwd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Project 2 - cnn1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="DSBFSLeiPYxqSHsi1jwd-17" target="DSBFSLeiPYxqSHsi1jwd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-17" value="Data = images that made in intern ship&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="DSBFSLeiPYxqSHsi1jwd-19" target="DSBFSLeiPYxqSHsi1jwd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-19" value="&lt;font size=&quot;3&quot;&gt;Start : MLP model&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Build and evaluateCNN using TF&amp;nbsp;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="DSBFSLeiPYxqSHsi1jwd-22" target="DSBFSLeiPYxqSHsi1jwd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Project 3 - cnn2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="DSBFSLeiPYxqSHsi1jwd-24" target="DSBFSLeiPYxqSHsi1jwd-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-24" value="Data = images that made in intern ship&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="DSBFSLeiPYxqSHsi1jwd-26" target="DSBFSLeiPYxqSHsi1jwd-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-26" value="&lt;font size=&quot;3&quot;&gt;Start : Normal CNN&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="320" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Build and evaluateCNN using TF and TL&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="590" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="DSBFSLeiPYxqSHsi1jwd-28" target="DSBFSLeiPYxqSHsi1jwd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DSBFSLeiPYxqSHsi1jwd-28" value="Early stopping and avoid over fitting" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="180" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
